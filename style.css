@@ -10,9 +10,10 @@ margin: 0px;
 
 
 header {
+    background-image: url(logo.jpg);
   position: relative;
   background: white;
-  height: 100px;
+  height: 50px;
   width: 60%;
   margin: 0 auto;
   padding: 0px;
@@ -125,7 +126,7 @@ opacity: .97;
 -webkit-transition: height 0.4s ease-in;
 }
 .wrapper ul li#a:hover:target {
-height: 160px;
+height: 100px;
 
 width: 200px;
 background: #f0f9ff;
