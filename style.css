@@ -16,7 +16,7 @@ header {
   width: 60%;
   margin: 0 auto;
   padding: 0px;
-  resize: both;
+  
   
 }
 
@@ -30,7 +30,7 @@ left: 10%;
 right: 10%;
 top: 0;
 
-  padding: 20px;
+  padding: 0;
  
  ;
 }
