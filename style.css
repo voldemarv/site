@@ -9,13 +9,13 @@ margin: 0px;
 }
 
 
-
+header {position: relative;}
 .wrapper {
 width: 80%;
 height: 100px;
-position: re;
-left: 10%;
-right: 10%;
+position: absolute;
+left: 15%;
+right: 15%;
 top: 0;
 
 }
