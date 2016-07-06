@@ -20,29 +20,19 @@ header {
   overflow: auto;
 }
 
-main div {
-  background: black;
-  color: white;
-  width: 50%;
-  transform: translate(-50%, -50%);
-
-}
-
 
 
 .wrapper {
 width: 80%;
 height: 100px;
+position: absolute;
 left: 10%;
 right: 10%;
 top: 0;
-  position: absolute;
-  
   left: 50%;
   padding: 20px;
   resize: both;
   overflow: auto;
-
 }
 .wrapper ul {
 list-style: none;
