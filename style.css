@@ -17,7 +17,7 @@ header {
   margin: 0 auto;
   padding: 20px;
   resize: both;
-  overflow: auto;
+  
 }
 
 
@@ -32,7 +32,7 @@ top: 0;
 
   padding: 20px;
  
-  overflow: auto;
+ ;
 }
 .wrapper ul {
 list-style: none;
