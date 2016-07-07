@@ -1,6 +1,6 @@
 /* Developed By: Deepu Balan | bdeepu@gmail.com | www.deepubalan.com | @bdeepu */
 
-body { background-image: url(body1.jpg);
+body { background-image: url(back.jpg);
 font: Arial, Helvetica, sans-serif 11px;
 }
 ul, li, p {
@@ -10,7 +10,7 @@ margin: 0px;
 
 
 header {
-    background-image: url(body1.jpg);
+   
   position: relative;
   
   height: 0px;
