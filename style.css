@@ -21,14 +21,10 @@ header {
   
 }
 
-article { position: relative; 
+article { position: relative; margin: auto 15% auto 15%; }
+
     
-    width:600px; }
-.General p { position: absolute;
-     top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
+
 .wrapper {
 width: 80%;
 height: 100px;
