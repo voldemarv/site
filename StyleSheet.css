@@ -21,3 +21,8 @@ p{text-align:center;}
 #top h1 a:hover{text-decoration:none;}
 
 small a{color:#000;}
+
+
+#map_canvas {
+    position: absolute;
+    right: 25%;}
